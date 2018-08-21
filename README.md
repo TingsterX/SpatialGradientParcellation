@@ -15,6 +15,14 @@ Related Paper: [Xu et al.,](https://academic.oup.com/cercor/article-lookup/doi/1
 ```
 
 ## Note
-#### The gradient should NOT be calculated on the template surface. Use the standarded (aligned) native surface all the time. 
+####The gradient should NOT be calculated on the template surface. Use the standarded (aligned) **native** surface all the time. 
+
+
+#### edge detection 
+Reference: [Wig et al.,](https://academic.oup.com/cercor/article-lookup/doi/10.1093/cercor/bht056) Parcellating an individual subject's cortical and subcortical brain structures using snowball sampling of resting-state correlations. 2014
+
+Code: m_gradient2edge.m
+
+
 
 
