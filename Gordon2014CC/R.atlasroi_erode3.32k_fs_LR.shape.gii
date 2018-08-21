@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexRight]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Caret-Version]]></Name>
+         <Value><![CDATA[5.65]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[2012-11-13T05:40:22]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{e3d82af6-38dd-4115-9a0b-ff874545cc6e}]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[comment]]></Name>
+         <Value><![CDATA[Deformed from: CCNMD_MyelinMapping.R.Atlas_Cortex_ROI.164k_fs_LR.func.gii Deformed with: 164k_fs_LR232k_fs_LR.R.deform_map Appended File: /media/2TBB/MyelinMapping_Project/CommonFiles/FS_LR/fsaverage.L+R.MedialWall.164k_fs_LR.metric Deformed from: fsaverage.L.ProbabilisticArchitectonic.164k_fs_L.metric Deformed with: fsaverage.L.registered-to-fs_LR.164k_fs_LR.deform_map Appended File: /Users/vanessen/BRAIN_MAP_DATA/PALS_B12_HUMAN/FREESURFER-to-PALS/FREESURFER_AVG-to-PALS/FS_AVERAGE/FS_LR/fsaverage.R.ProbabilisticArchitectonic.164k_fs_LR.metric Deformed from: fsaverage.R.ProbabilisticArchitectonic.164k_fs_R.metric Deformed with: fsaverage.R.registered-to-fs_LR.164k_fs_LR.deform_map]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[encoding]]></Name>
+         <Value><![CDATA[XML_BASE64_GZIP]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1.000000" Green="1.000000" Blue="1.000000" Alpha="0.000000"><![CDATA[???]]></Label>
+   </LabelTable>
+   <DataArray  ArrayIndexingOrder="ColumnMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="32492"
+               Dim1="1"
+               Dimensionality="2"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               ExternalFileName=""
+               ExternalFileOffset=""
+               Intent="NIFTI_INTENT_NONE">
+      <MetaData>
+         <MD>
+            <Name><![CDATA[Description]]></Name>
+            <Value><![CDATA[Multiplied -1.0 by Atlas_Cortex_ROI Deformed with: 164k_fs_LR232k_fs_LR.R.deform_map]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[Name]]></Name>
+            <Value><![CDATA[deformed_Atlas_Cortex_ROI]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[UniqueID]]></Name>
+            <Value><![CDATA[{ee75ce91-2bc7-4415-8c13-69d60a3f4da4}]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[column-color-mapping]]></Name>
+            <Value><![CDATA[-1.0 1.0]]></Value>
+         </MD>
+         <MD>
+            <Name><![CDATA[column-threshold]]></Name>
+            <Value><![CDATA[0.0 0.0]]></Value>
+         </MD>
+      </MetaData>
+      <Data>eJzt3UluwzAMBdDcrFfL0YsuihboEGugRMrvAd40FvmpBKmdLPJ4/Of59u/DTT5qVThOt3t/s+317j2I2q/dWe8+1x3n2Z3xbrOYYf9ROb/cMvfkzZa5StYKObNnzJzviqy5Vmdrcbc8rbLkiMiyO8PO/r0q9h2xul9rzxlW9XnVK7pHZP2Zoup+1gY40er/nQAAMEOF69Ps19GZr/mz3ptkzJXtfi5Tniz3u6s/I8+YYWf/1t6z+u/o29NzpO/Kfqt6regT3aO3/pUeUbUr1JxZL1Od0Roj63vXrljj+PlcAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO2eb18HAAAAAABARb7nAAAAAAAAAAAAAAAAAAAAAAAAAABO8/33pSr91tRfubPPcCV3xhkq5q6WuVLeKlkr5GzNuDpnT75VOUeyRecbzRaRcVamWXlX5Lmab0eW37JlyLAzR4bXxh36ru656z2oep/o96nI+lG1I+rOrjmz3qxaM+qM1hhZ37u2Z13rmohzr5z36pxXj7X8vWffqOHU5+7EuU6b6aR5TpnlhDmqz1A5f+XsAAAAAAAAAAAAAAAAAAAAwEneAZeMQvc=</Data>
+   </DataArray>
+</GIFTI>
