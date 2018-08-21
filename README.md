@@ -6,7 +6,7 @@ Related Paper: [Xu et al.,](https://academic.oup.com/cercor/article-lookup/doi/1
 
 ### Software Requirements 
 
-- [workbench] (https://www.humanconnectome.org/software/connectome-workbench)
+- [workbench](https://www.humanconnectome.org/software/connectome-workbench)
 - Matlab
 
 ### Run
