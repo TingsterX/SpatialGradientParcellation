@@ -11,7 +11,7 @@ function [] = m_gradient2edge(gradient_nifti_file, edge_nifti_file, fs_vertex_no
 % e.g. fs_vertex_nonadj = 'templates/fsaverage5/mid_nonadj.mat'
 
 
-addpath(genpath('core/gifti_matlab'))
+addpath(genpath('core'))
 %%
 load(fs_vertex_nonadj)
 if strcmp(hemi, 'lh')
