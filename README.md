@@ -17,10 +17,6 @@ Macaque Cortex In Vivo. Cell Report 2018
 ./x_gradient.sh PathToFile/<lh.functional_similarity.nii.gz> <ThePath/lh.mask.nii.gz> <L.midthickness.surf.gii> <OutDirectory>
 ```
 
-## IMPORTANT!!
-### The gradient should NOT be calculated on the template surface. Use the standarded (aligned) **native** surface all the time. 
-
-
 ### edge detection code
 
 1. Gordon et al., 2016
@@ -32,7 +28,8 @@ Reference: [Gordon et al.,](https://academic.oup.com/cercor/article/26/1/288/236
 Reference: [Wig et al.,](https://academic.oup.com/cercor/article-lookup/doi/10.1093/cercor/bht056) Parcellating an individual subject's cortical and subcortical brain structures using snowball sampling of resting-state correlations. 2014
 - Code: m_gradient2edge.m
 
-
+## IMPORTANT!!
+The gradient should **NOT** be calculated on the template surface! Use the **individual** surface (aligned or uniformed native surface) all the time. 
 
 
 
